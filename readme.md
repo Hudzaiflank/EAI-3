@@ -20,7 +20,7 @@ root/
 1. Go to server directory:
 
    ```bash
-   cd server
+   cd complaint-graphql-service
    ```
 
 2. Install dependencies:
