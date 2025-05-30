@@ -9,7 +9,7 @@ This repository contains a **GraphQL Complaint Management System** built with:
 
 ```
 root/
-├── server/         # Express GraphQL API (MySQL)
+├── complaint-graphql-service/         # Express GraphQL API (MySQL)
 └── client/         # React + Tailwind frontend using GraphQL
 ```
 
